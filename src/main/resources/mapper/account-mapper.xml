@@ -24,7 +24,7 @@
     		#{id}
     		,#{password}
     		,#{email}
-    		,#{role}
+    		,'ROLE_USER'
     	)
     </insert>
 </mapper>
